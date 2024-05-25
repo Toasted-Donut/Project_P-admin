@@ -18,6 +18,7 @@
         android:textSize="24sp"
         app:drawableLeftCompat="@drawable/baseline_filter_alt_24" />
     <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
